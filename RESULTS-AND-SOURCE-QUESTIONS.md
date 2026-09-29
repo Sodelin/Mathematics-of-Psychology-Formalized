@@ -24,6 +24,8 @@ The exact source was checked with Lean 4.19.0 and its bundled standard library, 
 
 This publication update preserves the Lean source unchanged. The accompanying JSON records its byte hash. The formal statements establish consequences of the definitions; empirical interpretation and political recommendations require separate evidence.
 
-## Completeness boundary
+## Reconciled publication coverage
 
-The accessible branch contains one Lean module. A recollection of approximately 67 Lean items in a cloud social-science work session has not yet been reconciled with an accessible artifact. It is not counted as completed or silently treated as this smaller package. The cloud chat reader exposed user messages but no research output or attachments. The broader manuscript, evidence synthesis, and other results must be inventoried from their actual files before being included.
+The remembered 67-item package has now been located in the canonical broader repository, [Formalizing Soft Sciences](https://github.com/Sodelin/Formalizing-Soft-Sciences). It consists of these same 16 solidarity declarations plus 51 foundations declarations. Its main now also contains 18 checked declarations for a published CBT-model fragment, giving 85 in total. The [complete source-question map](https://github.com/Sodelin/Formalizing-Soft-Sciences/blob/7835157/PUBLICATION-COVERAGE-2026-09-29.md) explains each family and points to individual theorem inventories.
+
+This repository preserves the earlier psychology checkpoint. Its 16 declarations are not additional to the 85 in the broader repository. The historical reference to a distinct earlier psychology corpus remains separate from the now-recovered 67-item package.

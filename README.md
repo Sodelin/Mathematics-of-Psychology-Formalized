@@ -8,4 +8,6 @@ The current package proves that a two-neighbor contact bound permits an unbounde
 - [All 16 theorem declarations](Solidarity.lean)
 - [Pinned build](.github/workflows/lean.yml)
 
-These are elementary project-specified model results. A published external open-problem solution or empirical law is not claimed. The result map identifies what is proved and accounts explicitly for the larger cloud package that remains to be located.
+These are elementary project-specified model results. A published external open-problem solution or empirical law is not claimed. The result map identifies what is proved and accounts explicitly for the larger cloud package now located in the canonical Formalizing Soft Sciences repository.
+
+The broader [85-declaration corpus and source map](https://github.com/Sodelin/Formalizing-Soft-Sciences/blob/7835157/PUBLICATION-COVERAGE-2026-09-29.md) includes these same 16 results. They are preserved here without counting them twice.
