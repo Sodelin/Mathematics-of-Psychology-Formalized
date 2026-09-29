@@ -1,0 +1,12 @@
+{
+  "source_commit": "841419eea726383da96e105b3b995910b80f2ed0",
+  "source": "Solidarity.lean",
+  "sha256": "6d7659a235b460a93a09ed90f06473bf2daf41c53f6a16660a7e91ee27ae4c9d",
+  "lean": "4.19.0",
+  "theorem_declarations": 16,
+  "printed_axiom_reports": 11,
+  "hosted_run": 36365007772,
+  "hosted_conclusion": "success",
+  "source_unchanged": true,
+  "external_open_problem_closures_established": 0
+}
